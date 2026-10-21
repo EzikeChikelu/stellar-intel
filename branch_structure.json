@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-1621-anchors-list-wisdomtree-as-an-issuer-only",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-1621-anchors-list-wisdomtree-as-an-issuer-only": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-1621-anchors-list-wisdomtree-as-an-issuer-only",
+    "origin"
+  ]
+}
